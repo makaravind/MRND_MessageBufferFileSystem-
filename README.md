@@ -1,4 +1,7 @@
-# MRND_MessageBufferFileSystem- Create group of your own and let others so you have all messgages related to one group at one place. Also read messages and reply to them. 
+# MessageBufferFileSystem- 
+
+Create group of your own and let others so you have all messgages related to one group at one place. Also read messages and reply to them. 
+
 ALL AT ONE PLACE
 
 technical:
